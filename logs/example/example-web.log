@@ -58,3 +58,54 @@ headerSent: true
 pid: 96842
 hostname: hehe-2.local
 
+2023-04-18 22:38:36,226 WARN 59063 [-/127.0.0.1/-/31ms POST /saveSchema] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2023-04-18 22:38:36,230 WARN 59063 [-/127.0.0.1/-/35ms POST /saveSchema] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa@2.14.2/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/app/extend/context.js:163:32)
+    at csrf (/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/lib/middlewares/csrf.js:39:9)
+    at dispatch (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at /Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-session@6.4.0/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-override@3.0.0/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 59063
+hostname: hehe
+
+2023-04-18 22:40:38,766 WARN 59136 [-/127.0.0.1/-/26ms POST /saveSchema] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2023-04-18 22:40:38,769 WARN 59136 [-/127.0.0.1/-/29ms POST /saveSchema] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa@2.14.2/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/app/extend/context.js:163:32)
+    at csrf (/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/lib/middlewares/csrf.js:39:9)
+    at dispatch (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at /Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-session@6.4.0/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-override@3.0.0/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 59136
+hostname: hehe
+
+2023-04-18 22:41:44,413 WARN 59238 [-/127.0.0.1/-/31ms POST /saveSchema] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2023-04-18 22:41:44,415 WARN 59238 [-/127.0.0.1/-/33ms POST /saveSchema] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa@2.14.2/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/app/extend/context.js:163:32)
+    at csrf (/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security/lib/middlewares/csrf.js:39:9)
+    at dispatch (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at /Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-session@6.4.0/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-override@3.0.0/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/heyingchun/study/egg-example/node_modules/.pnpm/koa-compose@4.1.0/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 59238
+hostname: hehe
+

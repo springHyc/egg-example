@@ -9,5 +9,6 @@ module.exports = (app) => {
   router.get('/getNowTime', controller.home.getNowTime);
   router.get('/news', controller.news.list);
   router.get('/news2', controller.news.list2);
-  router.get('/getSchema', controller.schema.cache);
+  router.get('/getSchema', controller.schema.getCache);
+  router.post('/saveSchema', controller.schema.saveSchema);
 };

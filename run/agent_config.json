@@ -89,7 +89,7 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "/Users/yingchun.he/study/egg-example/node_modules/egg-onerror/lib/onerror_page.mustache"
+      "templatePath": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-onerror@2.2.0/node_modules/egg-onerror/lib/onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
@@ -102,8 +102,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "/Users/yingchun.he/study/egg-example/node_modules/egg-watcher/lib/event-sources/default",
-        "development": "/Users/yingchun.he/study/egg-example/node_modules/egg-watcher/lib/event-sources/development"
+        "default": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-watcher@3.1.1/node_modules/egg-watcher/lib/event-sources/default",
+        "development": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-watcher@3.1.1/node_modules/egg-watcher/lib/event-sources/development"
       }
     },
     "customLogger": {
@@ -128,7 +128,7 @@
       "fileExtensions": [],
       "whitelist": null,
       "allowArrayField": false,
-      "tmpdir": "/var/folders/wz/19z5k6p971g6ys_8rs2vfp3w0000gp/T/egg-multipart-tmp/example",
+      "tmpdir": "/var/folders/t_/xvxy5ctd1j78jb317j55lgjw0000gn/T/egg-multipart-tmp/example",
       "cleanSchedule": {
         "cron": "0 30 4 * * *",
         "disable": false
@@ -153,14 +153,14 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "/Users/yingchun.he/study/egg-example/app/public",
+      "dir": "/Users/heyingchun/study/egg-example/app/public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "/Users/yingchun.he/study/egg-example/app/view",
+      "root": "/Users/heyingchun/study/egg-example/app/view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "nunjucks",
@@ -233,9 +233,9 @@
       "author": "",
       "license": "MIT"
     },
-    "baseDir": "/Users/yingchun.he/study/egg-example",
-    "HOME": "/Users/yingchun.he",
-    "rundir": "/Users/yingchun.he/study/egg-example/run",
+    "baseDir": "/Users/heyingchun/study/egg-example",
+    "HOME": "/Users/heyingchun",
+    "rundir": "/Users/heyingchun/study/egg-example/run",
     "dump": {
       "ignore": "<Set>",
       "timing": {
@@ -271,7 +271,7 @@
       "onerror": "<Function onerror>"
     },
     "logger": {
-      "dir": "/Users/yingchun.he/study/egg-example/logs/example",
+      "dir": "/Users/heyingchun/study/egg-example/logs/example",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -368,8 +368,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "/Users/yingchun.he/study/egg-example/node_modules/egg/config/plugin.js",
-      "path": "/Users/yingchun.he/study/egg-example/node_modules/egg-onerror",
+      "from": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg@3.15.0/node_modules/egg/config/plugin.js",
+      "path": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-onerror@2.2.0/node_modules/egg-onerror",
       "version": "2.2.0"
     },
     "session": {
@@ -379,8 +379,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/yingchun.he/study/egg-example/node_modules/egg/config/plugin.js",
-      "path": "/Users/yingchun.he/study/egg-example/node_modules/egg-session",
+      "from": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg@3.15.0/node_modules/egg/config/plugin.js",
+      "path": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session",
       "version": "3.3.0"
     },
     "i18n": {
@@ -390,8 +390,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/yingchun.he/study/egg-example/node_modules/egg/config/plugin.js",
-      "path": "/Users/yingchun.he/study/egg-example/node_modules/egg-i18n",
+      "from": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg@3.15.0/node_modules/egg/config/plugin.js",
+      "path": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-i18n@2.1.1/node_modules/egg-i18n",
       "version": "2.1.1"
     },
     "watcher": {
@@ -401,8 +401,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/yingchun.he/study/egg-example/node_modules/egg/config/plugin.js",
-      "path": "/Users/yingchun.he/study/egg-example/node_modules/egg-watcher",
+      "from": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg@3.15.0/node_modules/egg/config/plugin.js",
+      "path": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-watcher@3.1.1/node_modules/egg-watcher",
       "version": "3.1.1",
       "dependents": [
         "development"
@@ -417,8 +417,8 @@
         "schedule"
       ],
       "env": [],
-      "from": "/Users/yingchun.he/study/egg-example/node_modules/egg/config/plugin.js",
-      "path": "/Users/yingchun.he/study/egg-example/node_modules/egg-multipart",
+      "from": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg@3.15.0/node_modules/egg/config/plugin.js",
+      "path": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-multipart@3.3.0/node_modules/egg-multipart",
       "version": "3.3.0"
     },
     "security": {
@@ -430,8 +430,8 @@
         "session"
       ],
       "env": [],
-      "from": "/Users/yingchun.he/study/egg-example/node_modules/egg/config/plugin.js",
-      "path": "/Users/yingchun.he/study/egg-example/node_modules/egg-security",
+      "from": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg@3.15.0/node_modules/egg/config/plugin.js",
+      "path": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-security@2.11.0/node_modules/egg-security",
       "version": "2.11.0",
       "dependents": [
         "nunjucks"
@@ -448,8 +448,8 @@
       "env": [
         "local"
       ],
-      "from": "/Users/yingchun.he/study/egg-example/node_modules/egg/config/plugin.js",
-      "path": "/Users/yingchun.he/study/egg-example/node_modules/egg-development",
+      "from": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg@3.15.0/node_modules/egg/config/plugin.js",
+      "path": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-development@2.7.0/node_modules/egg-development",
       "version": "2.7.0"
     },
     "logrotator": {
@@ -461,8 +461,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/yingchun.he/study/egg-example/node_modules/egg/config/plugin.js",
-      "path": "/Users/yingchun.he/study/egg-example/node_modules/egg-logrotator",
+      "from": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg@3.15.0/node_modules/egg/config/plugin.js",
+      "path": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator",
       "version": "3.1.0"
     },
     "schedule": {
@@ -472,8 +472,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/yingchun.he/study/egg-example/node_modules/egg/config/plugin.js",
-      "path": "/Users/yingchun.he/study/egg-example/node_modules/egg-schedule",
+      "from": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg@3.15.0/node_modules/egg/config/plugin.js",
+      "path": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-schedule@4.0.0/node_modules/egg-schedule",
       "version": "4.0.0",
       "dependents": [
         "logrotator"
@@ -486,8 +486,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/yingchun.he/study/egg-example/node_modules/egg/config/plugin.js",
-      "path": "/Users/yingchun.he/study/egg-example/node_modules/egg-static",
+      "from": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg@3.15.0/node_modules/egg/config/plugin.js",
+      "path": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-static@2.3.1/node_modules/egg-static",
       "version": "2.3.1"
     },
     "jsonp": {
@@ -499,8 +499,8 @@
         "security"
       ],
       "env": [],
-      "from": "/Users/yingchun.he/study/egg-example/node_modules/egg/config/plugin.js",
-      "path": "/Users/yingchun.he/study/egg-example/node_modules/egg-jsonp",
+      "from": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg@3.15.0/node_modules/egg/config/plugin.js",
+      "path": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-jsonp@2.0.0/node_modules/egg-jsonp",
       "version": "2.0.0"
     },
     "view": {
@@ -510,8 +510,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/yingchun.he/study/egg-example/node_modules/egg/config/plugin.js",
-      "path": "/Users/yingchun.he/study/egg-example/node_modules/egg-view",
+      "from": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg@3.15.0/node_modules/egg/config/plugin.js",
+      "path": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-view@2.1.4/node_modules/egg-view",
       "version": "2.1.4",
       "dependents": [
         "nunjucks"
@@ -527,28 +527,33 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/yingchun.he/study/egg-example/config/plugin.js",
-      "path": "/Users/yingchun.he/study/egg-example/node_modules/egg-view-nunjucks",
+      "from": "/Users/heyingchun/study/egg-example/config/plugin.js",
+      "path": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-view-nunjucks@2.3.0/node_modules/egg-view-nunjucks",
       "version": "2.3.0"
     },
     "cors": {
       "enable": true,
       "package": "egg-cors",
+      "security": {
+        "domainWhiteList": [
+          "http://localhost:5556"
+        ]
+      },
       "name": "cors",
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/yingchun.he/study/egg-example/config/plugin.js",
-      "path": "/Users/yingchun.he/study/egg-example/node_modules/egg-cors",
+      "from": "/Users/heyingchun/study/egg-example/config/plugin.js",
+      "path": "/Users/heyingchun/study/egg-example/node_modules/.pnpm/egg-cors@2.2.3/node_modules/egg-cors",
       "version": "2.2.3"
     }
   },
   "appInfo": {
     "name": "example",
-    "baseDir": "/Users/yingchun.he/study/egg-example",
+    "baseDir": "/Users/heyingchun/study/egg-example",
     "env": "local",
     "scope": "",
-    "HOME": "/Users/yingchun.he",
+    "HOME": "/Users/heyingchun",
     "pkg": {
       "name": "example",
       "version": "1.0.0",
@@ -596,6 +601,6 @@
       "author": "",
       "license": "MIT"
     },
-    "root": "/Users/yingchun.he/study/egg-example"
+    "root": "/Users/heyingchun/study/egg-example"
   }
 }

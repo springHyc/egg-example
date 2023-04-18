@@ -33,10 +33,13 @@ module.exports = (appInfo) => {
     robot: {
       ua: ['/Baiduspider/i'],
     },
-    core: {
+    cors: {
       origin: '*',
       allowMethods: 'GET,HEAD,PUT,POST,DELETE,PATCH,OPTIONS',
     },
+    security: {xframe: {
+      enable: false,
+    }}
   };
 
   return {

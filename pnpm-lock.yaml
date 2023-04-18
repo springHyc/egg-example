@@ -4,14 +4,20 @@ specifiers:
   egg: ^3
   egg-bin: ^5
   egg-ci: ^2
+  egg-cors: ^2.2.3
   egg-mock: ^5
   egg-scripts: ^2
+  egg-view-nunjucks: ^2.3.0
   eslint: ^8
   eslint-config-egg: ^12
+  moment: ^2.29.4
 
 dependencies:
   egg: 3.15.0
+  egg-cors: 2.2.3
   egg-scripts: 2.17.0
+  egg-view-nunjucks: 2.3.0
+  moment: 2.29.4
 
 devDependencies:
   egg-bin: 5.13.4_egg-mock@5.10.6
@@ -392,6 +398,13 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.15
     dev: true
 
+  /@koa/cors/3.4.3:
+    resolution: {integrity: sha512-WPXQUaAeAMVaLTEFpoq3T2O1C+FstkjJnDQqy95Ck1UdILajsRhu6mhJ8H2f4NFPRBoCNN+qywTJfq/gGki5mw==}
+    engines: {node: '>= 8.0.0'}
+    dependencies:
+      vary: 1.1.2
+    dev: false
+
   /@nicolo-ribaudo/eslint-scope-5-internals/5.1.1-v1:
     resolution: {integrity: sha512-54/JRvkLIzzDWshCWfuhadfrfZVPiElY8Fcgmg1HroEly/EDSszzhBAsarCux+D/kOslTRquNzuyGSmUSTTHGg==}
     dependencies:
@@ -705,7 +718,6 @@ packages:
 
   /a-sync-waterfall/1.0.1:
     resolution: {integrity: sha512-RYTOHHdWipFUliRFMCS4X2Yn2X8M87V/OpSqWzKKOGhzqyUxzyVmhHDH9sAvG+ZuQf/TAOFsLCpMw09I1ufUnA==}
-    dev: true
 
   /abort-controller/3.0.0:
     resolution: {integrity: sha512-h8lQ8tacZYnR3vNQTgibj+tODHI5/+l06Au2Pcriv/Gmet0eaj4TwWH41sO9wnHDiQsEj19q0drzdWdeAHtweg==}
@@ -902,7 +914,6 @@ packages:
 
   /asap/2.0.6:
     resolution: {integrity: sha512-BSHWgDSAiKs50o2Re8ppvp3seVHXSRM44cdSsT9FfNEUUZLOGWVCsiWaRPWM1Znn+mqZ1OfVZ3z3DWEzSp7hRA==}
-    dev: true
 
   /ast-types-flow/0.0.7:
     resolution: {integrity: sha512-eBvWn1lvIApYMhzQMsu9ciLfkBY499mFZlNqG+/9WR7PVlroQw0vG30cOQQbaKz3sCEc44TAOu2ykzqXSNnwag==}
@@ -1311,7 +1322,6 @@ packages:
   /commander/5.1.0:
     resolution: {integrity: sha512-P0CysNDQ7rtVw4QIQtm+MRxV66vKFSvlsQvGYXZWR3qFU0jlMKHZZZgw8e+8DSah4UDKMqnknRDQz+xuQXQ/Zg==}
     engines: {node: '>= 6'}
-    dev: true
 
   /comment-parser/1.3.1:
     resolution: {integrity: sha512-B52sN2VNghyq5ofvUsqZjmk6YkihBX5vMSChmSK9v4ShjKf3Vk5Xcmgpw4o+iIgtrnM/u5FiMpz9VKb8lpBveA==}
@@ -1816,6 +1826,13 @@ packages:
     transitivePeerDependencies:
       - supports-color
 
+  /egg-cors/2.2.3:
+    resolution: {integrity: sha512-MLG4pQekZpycLXR45ZAIgFpFYshosBxu1CMdhXAzqPzxUn0xI21gVzqLqcxUrzzulaErCwG6qMXaS1eFyj9u2w==}
+    engines: {node: '>=8.0.0'}
+    dependencies:
+      '@koa/cors': 3.4.3
+    dev: false
+
   /egg-development/2.7.0:
     resolution: {integrity: sha512-vPkC+Wngm/a48bj0rXpvTOmSjslBnygCsjBG7qahJ1PuCs0f10KrOGOGY9JzOW6KpfjKSPb+Y21mpzkxBJ9q2Q==}
     engines: {node: '>=8.0.0'}
@@ -2034,6 +2051,15 @@ packages:
     dependencies:
       mkdirp: 0.5.6
       utility: 1.17.0
+
+  /egg-view-nunjucks/2.3.0:
+    resolution: {integrity: sha512-f4WiE7PY60rW1Kr+7QAJyDr5Zo2VkXkczUkdRD/rnlUfWFpz8GAU1OBd/LsAdo9qFH9E0TJsozzkivnT7cyhfg==}
+    engines: {node: '>=6.0.0'}
+    dependencies:
+      nunjucks: 3.2.4
+    transitivePeerDependencies:
+      - chokidar
+    dev: false
 
   /egg-view/2.1.4:
     resolution: {integrity: sha512-8zJ/S7YU5SK3EbAYESlUCixLpDZPnyKimoowavrgW2vONnh8AJVuDGqgKCYmuymvWq3uaHoNx7mYbdMQwMTZ6A==}
@@ -4088,7 +4114,6 @@ packages:
       a-sync-waterfall: 1.0.1
       asap: 2.0.6
       commander: 5.1.0
-    dev: true
 
   /object-assign/4.1.1:
     resolution: {integrity: sha512-rJgTQnkUnH1sFw8yT6VSU3zD3sWmu6sZhIseY8VX+GRu3P6F7Fu+JNDoXfklElbLJSnc3FUQHVe4cU5hj+BcUg==}
