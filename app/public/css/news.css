@@ -1,0 +1,11 @@
+.news-view {
+    padding: 16px;
+    background-color: #fff;
+    border: 1px solid silver;
+}
+
+.news-view .item::before {
+    content: "※";
+    margin-right: 8px;
+    color: #f00;
+}

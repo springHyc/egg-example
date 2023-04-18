@@ -1,0 +1,180 @@
+2023-04-18 14:49:10,050 INFO 47034 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 14:49:10,050 INFO 47034 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 14:49:10,050 INFO 47034 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 14:49:10,248 INFO 47034 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49249754ms at 2023-04-19 04:30:00.002
+2023-04-18 14:49:10,249 INFO 47034 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 33049751ms at 2023-04-19 00:00:00.000
+2023-04-18 14:49:10,249 INFO 47034 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33050751ms at 2023-04-19 00:00:01.000
+2023-04-18 15:09:56,019 INFO 50558 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 48003988ms at 2023-04-19 04:30:00.007
+2023-04-18 15:09:56,020 INFO 50558 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31803981ms at 2023-04-19 00:00:00.001
+2023-04-18 15:09:56,020 INFO 50558 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31804980ms at 2023-04-19 00:00:01.000
+2023-04-18 15:09:55,765 INFO 50571 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 15:09:55,765 INFO 50571 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 15:09:55,765 INFO 50571 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 15:11:09,548 INFO 50912 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 15:11:09,549 INFO 50912 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 15:11:09,549 INFO 50912 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 15:11:11,053 INFO 50934 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 15:11:11,053 INFO 50934 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 15:11:11,053 INFO 50934 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 15:12:34,273 INFO 51173 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 15:12:34,273 INFO 51173 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 15:12:34,273 INFO 51173 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 15:12:34,464 INFO 51161 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 47845539ms at 2023-04-19 04:30:00.003
+2023-04-18 15:12:34,464 INFO 51161 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31645536ms at 2023-04-19 00:00:00.000
+2023-04-18 15:12:34,465 INFO 51161 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31646536ms at 2023-04-19 00:00:01.000
+2023-04-18 16:25:06,473 INFO 64798 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 43493531ms at 2023-04-19 04:30:00.004
+2023-04-18 16:25:06,473 INFO 64798 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 27293527ms at 2023-04-19 00:00:00.000
+2023-04-18 16:25:06,474 INFO 64798 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 27294527ms at 2023-04-19 00:00:01.001
+2023-04-18 16:25:06,208 INFO 64823 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:25:06,209 INFO 64823 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:25:06,209 INFO 64823 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:27:01,099 INFO 65262 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:27:01,100 INFO 65262 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:27:01,100 INFO 65262 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:27:40,143 INFO 65432 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:27:40,143 INFO 65432 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:27:40,143 INFO 65432 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:28:09,598 INFO 65500 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:28:09,599 INFO 65500 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:28:09,599 INFO 65500 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:28:13,992 INFO 65509 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:28:13,992 INFO 65509 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:28:13,992 INFO 65509 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:28:50,922 INFO 65593 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:28:50,922 INFO 65593 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:28:50,922 INFO 65593 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:29:05,194 INFO 65624 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:29:05,194 INFO 65624 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:29:05,194 INFO 65624 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:29:08,909 INFO 65633 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:29:08,909 INFO 65633 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:29:08,909 INFO 65633 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:29:23,376 INFO 65671 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:29:23,376 INFO 65671 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:29:23,376 INFO 65671 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:29:24,787 INFO 65677 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:29:24,787 INFO 65677 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:29:24,787 INFO 65677 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:29:38,362 INFO 65704 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:29:38,362 INFO 65704 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:29:38,362 INFO 65704 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:29:39,448 INFO 65712 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:29:39,449 INFO 65712 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:29:39,449 INFO 65712 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:29:49,696 INFO 65731 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:29:49,696 INFO 65731 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:29:49,696 INFO 65731 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:29:53,349 INFO 65750 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:29:53,349 INFO 65750 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:29:53,349 INFO 65750 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:30:30,668 INFO 65829 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:30:30,668 INFO 65829 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:30:30,668 INFO 65829 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 16:30:31,757 INFO 65836 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 16:30:31,757 INFO 65836 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 16:30:31,757 INFO 65836 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 18:01:04,803 INFO 83498 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 18:01:04,803 INFO 83498 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 18:01:04,803 INFO 83498 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 18:01:05,695 INFO 83482 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 37734310ms at 2023-04-19 04:30:00.004
+2023-04-18 18:01:05,695 INFO 83482 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 21534305ms at 2023-04-19 00:00:00.000
+2023-04-18 18:01:05,695 INFO 83482 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 21535305ms at 2023-04-19 00:00:01.000
+2023-04-18 19:31:33,721 INFO 94772 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 32306286ms at 2023-04-19 04:30:00.007
+2023-04-18 19:31:33,721 INFO 94772 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 16106279ms at 2023-04-19 00:00:00.000
+2023-04-18 19:31:33,721 INFO 94772 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 16107279ms at 2023-04-19 00:00:01.000
+2023-04-18 19:31:33,544 INFO 94789 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:31:33,545 INFO 94789 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:31:33,545 INFO 94789 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:33:12,758 INFO 95012 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:33:12,758 INFO 95012 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:33:12,758 INFO 95012 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:33:40,904 INFO 95079 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:33:40,904 INFO 95079 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:33:40,904 INFO 95079 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:33:43,076 INFO 95087 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:33:43,076 INFO 95087 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:33:43,076 INFO 95087 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:38:57,080 INFO 96159 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:38:57,080 INFO 96159 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:38:57,080 INFO 96159 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:39:33,340 INFO 96287 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:39:33,341 INFO 96287 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:39:33,341 INFO 96287 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:40:39,486 INFO 96435 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:40:39,486 INFO 96435 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:40:39,486 INFO 96435 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:40:58,861 INFO 96619 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:40:58,861 INFO 96619 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:40:58,861 INFO 96619 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:41:05,689 INFO 96634 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:41:05,689 INFO 96634 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:41:05,689 INFO 96634 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:42:40,013 INFO 96823 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:42:40,013 INFO 96823 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:42:40,013 INFO 96823 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:42:43,711 INFO 96827 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:42:43,711 INFO 96827 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:42:43,711 INFO 96827 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:42:47,461 INFO 96842 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:42:47,461 INFO 96842 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:42:47,461 INFO 96842 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:43:00,276 INFO 96903 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:43:00,276 INFO 96903 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:43:00,276 INFO 96903 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:43:08,500 INFO 96914 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:43:08,500 INFO 96914 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:43:08,500 INFO 96914 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:43:52,544 INFO 97031 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 31567461ms at 2023-04-19 04:30:00.005
+2023-04-18 19:43:52,544 INFO 97031 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 15367456ms at 2023-04-19 00:00:00.000
+2023-04-18 19:43:52,544 INFO 97031 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 15368456ms at 2023-04-19 00:00:01.000
+2023-04-18 19:43:51,984 INFO 97064 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:43:51,984 INFO 97064 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:43:51,984 INFO 97064 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:45:50,873 INFO 97298 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:45:50,873 INFO 97298 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:45:50,873 INFO 97298 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:46:55,103 INFO 97680 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:46:55,103 INFO 97680 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:46:55,103 INFO 97680 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:46:55,289 INFO 97658 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 31384715ms at 2023-04-19 04:30:00.004
+2023-04-18 19:46:55,289 INFO 97658 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 15184711ms at 2023-04-19 00:00:00.000
+2023-04-18 19:46:55,289 INFO 97658 [Timer] /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 15185711ms at 2023-04-19 00:00:01.000
+2023-04-18 19:48:30,704 INFO 97919 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:48:30,704 INFO 97919 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:48:30,704 INFO 97919 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:51:40,181 INFO 98532 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:51:40,182 INFO 98532 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:51:40,182 INFO 98532 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:53:03,520 INFO 98872 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:53:03,520 INFO 98872 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:53:03,520 INFO 98872 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:53:11,103 INFO 98887 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:53:11,103 INFO 98887 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:53:11,103 INFO 98887 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:54:20,489 INFO 99035 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:54:20,489 INFO 99035 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:54:20,489 INFO 99035 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:55:42,943 INFO 99212 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:55:42,943 INFO 99212 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:55:42,943 INFO 99212 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:55:45,393 INFO 99221 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:55:45,393 INFO 99221 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:55:45,393 INFO 99221 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:56:07,935 INFO 99376 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:56:07,935 INFO 99376 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:56:07,935 INFO 99376 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:56:10,819 INFO 99440 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:56:10,819 INFO 99440 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:56:10,819 INFO 99440 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:56:10,807 INFO 99441 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:56:10,807 INFO 99441 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:56:10,807 INFO 99441 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:56:12,293 INFO 99445 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:56:12,293 INFO 99445 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:56:12,293 INFO 99445 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:56:37,024 INFO 99496 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:56:37,024 INFO 99496 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:56:37,024 INFO 99496 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-04-18 19:56:39,110 INFO 99513 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-04-18 19:56:39,110 INFO 99513 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-04-18 19:56:39,110 INFO 99513 [egg-schedule]: register schedule /Users/yingchun.he/study/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
